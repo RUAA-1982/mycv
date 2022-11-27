@@ -1,0 +1,37 @@
+
+
+
+@media (min-width:576px) { /* phone */
+    .container{
+        max-width: 540px;
+    }
+    
+    
+  
+   
+    
+}
+@media (min-width:768px) {/* tabllets*/
+    .container{
+        max-width: 720px;
+    }
+   
+    
+    
+}
+@media (min-width:992px) {  /* desk top*/
+    .container{
+        max-width: 960px;
+    }
+  
+   
+    
+}
+@media (min-width:1200px) {  /*  large screen*/
+    .container{
+        max-width:1170px;
+    }
+    
+    
+}
+
